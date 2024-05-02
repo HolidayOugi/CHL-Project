@@ -692,9 +692,9 @@ mixup_30.jpg,1.0,0.0
 mixup_31.jpg,1.0,0.0
 cutmix_32.jpg,0.0,1.0
 cutmix_33.jpg,0.0,1.0
-cutmix_34.jpg,0.0,1.0
-cutmix_35.jpg,0.0,1.0
-mixup_32.jpg,0.0,1.0
+cutmix_34.jpg,0.9830999970436096,0.016899999231100082
+cutmix_35.jpg,1.0,0.0
+mixup_32.jpg,0.8097243905067444,0.19027559459209442
 mixup_33.jpg,0.0,1.0
 mixup_34.jpg,0.0,1.0
 mixup_35.jpg,0.0,1.0
